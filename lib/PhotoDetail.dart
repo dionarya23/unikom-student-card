@@ -88,7 +88,7 @@ class PhotoDetail extends StatelessWidget {
                   right: 50.0,
                 ),
                 child: Text(
-                  nim,
+                  '#$nim',
                   style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.bold,
